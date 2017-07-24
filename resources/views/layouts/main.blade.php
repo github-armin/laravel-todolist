@@ -4,9 +4,12 @@
     <meta charset="utf-8">
     <title>Todo List (laravel)</title>
     <link rel="stylesheet" href="/css/app.css">
+    <link rel="stylesheet" href="/css/font-awesome.css">
   </head>
   <body>
-    <div class="container">
+    @include('partials.nav')
+    <div class="container" style="margin-top: 50px;">
+
       @yield('content')
     </div>
 
