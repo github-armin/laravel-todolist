@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Todo List (laravel)</title>
+    <title>Todo List</title>
     <link rel="stylesheet" href="/css/app.css">
     <link rel="stylesheet" href="/css/font-awesome.css">
   </head>
