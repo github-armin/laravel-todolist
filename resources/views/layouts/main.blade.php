@@ -8,8 +8,8 @@
   </head>
   <body>
     @include('partials.nav')
-    <div class="container" style="margin-top: 50px;">
-
+    <div class="container" style="margin-top: 70px;">
+      @include('partials.notifications')
       @yield('content')
     </div>
 
